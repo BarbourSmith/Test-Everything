@@ -51,8 +51,8 @@
                 {
                     "atomType": "Stretch",
                     "name": "Stretch",
-                    "x": 194,
-                    "y": 86,
+                    "x": 189,
+                    "y": 83,
                     "uniqueID": 138714,
                     "ioValues": [
                         {
@@ -72,7 +72,7 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 337,
+                    "x": 338,
                     "y": 52,
                     "uniqueID": 752246,
                     "ioValues": [
@@ -93,8 +93,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 749,
-                    "y": 215,
+                    "x": 755,
+                    "y": 211,
                     "uniqueID": 339828,
                     "ioValues": [
                         {
