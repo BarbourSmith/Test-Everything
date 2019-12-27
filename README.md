@@ -7,3 +7,261 @@
 ## Test Everything
 
 
+## Maslow 4 Arm2
+
+
+## Maslow 4 Metal Arm Spacer
+
+
+## Outline
+
+
+## Cutaways
+
+
+## Maslow 4 Spool2
+
+
+Readme text here
+
+
+## Cut Away
+
+
+undefined
+
+
+## Measure Height
+
+
+## Measure Height
+
+
+## Front Roller Hardware
+
+
+## Hardware Stack
+
+
+## M4 Locknut
+
+
+undefined
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## 11mm M4 Spacer
+
+
+undefined
+
+
+## Drive Belt
+
+
+## GT2 Belt Aproximation 
+
+
+## Console Log Belt Size
+
+
+## GT2 Pulley 20tooth
+
+
+undefined
+
+
+undefined
+
+
+## Cable
+
+
+undefined
+
+
+## Roller
+
+
+## Bearing Block 2
+
+
+## Maslow 4 Metal Arm Spacer
+
+
+## Outline
+
+
+## Cutaways
+
+
+## Cutaways
+
+
+## Slice
+
+
+## PCB
+
+
+## Encoder Board
+
+
+## PCB
+
+
+## Board
+
+
+## Outline
+
+
+## Maslow 4 Metal Arm Spacer
+
+
+## Outline
+
+
+## Cutaways
+
+
+## Slice
+
+
+## Components
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+undefined
+
+
+## Bearing Cutout
+
+
+## Skateboard Bearing
+
+
+undefined
+
+
+## Roller
+
+
+undefined
+
+
+undefined
+
+
+## Top Plate Assembly
+
+
+## Top Plate Blank
+
+
+## Plate Template
+
+
+## Cut Aways
+
+
+## Latch
+
+
+## Joint Connector
+
+
+## Keep Out
+
+
+## Nut
+
+
+undefined
+
+
+## Plate
+
+
+## Bolt
+
+
+undefined
+
+
+## Motors
+
+
+## Motor Assembly Compact Maslow 4
+
+
+## Motor and Hardware
+
+
+## Maslow Motor
+
+
+This is a model of the Etonm ET-WGM58AE motor used by the Maslow CNC. A schematic for this motor can be found in https://github.com/MaslowCNC/Electronics/tree/master/Documentation/Data%20Sheets 
+
+
+## Mounting Holes
+
+
+Hole of 2.25mm is the recommended clearance bolt hole for a M4 bolt, not the measured hole id for the thread which will be 3.3mm 
+
+
+## Bump Around Shaft
+
+
+The radius of this is not displayed on the diagram, and is estimated. It should be checked.
+
+
+undefined
+
+
+## M4x20 Bolt
+
+
+undefined
+
+
+## Shaft
+
+
+## 8mm to 8mm Shaft Coupler
+
+
+undefined
+
+
+## 8mm Shaft
+
+
+undefined
+
+
+## Leadscrew Nut
+
+
+## 8mm Lead Screw Nut
+
+
+## Cut Aways
+
+
+undefined
+
+

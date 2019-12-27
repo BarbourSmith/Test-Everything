@@ -12,8 +12,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 64,
-                    "y": 133,
+                    "x": 69,
+                    "y": 75,
                     "uniqueID": 715163,
                     "ioValues": [
                         {
@@ -25,8 +25,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 206,
-                    "y": 194,
+                    "x": 251,
+                    "y": 73,
                     "uniqueID": 171638,
                     "ioValues": [
                         {
@@ -36,10 +36,28 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow 4 Arm2",
+                    "x": 282,
+                    "y": 146,
+                    "uniqueID": 207495,
+                    "projectID": "229145866",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Top Plate Assembly",
+                    "x": 277,
+                    "y": 261,
+                    "uniqueID": 612605,
+                    "projectID": "229338872",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Stretch",
                     "name": "Stretch",
-                    "x": 363,
-                    "y": 131,
+                    "x": 392,
+                    "y": 55,
                     "uniqueID": 138714,
                     "ioValues": [
                         {
@@ -59,8 +77,58 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 514,
-                    "y": 89,
+                    "x": 411,
+                    "y": 142,
+                    "uniqueID": 288972,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 443,
+                    "y": 252,
+                    "uniqueID": 822830,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 611,
+                    "y": 55,
                     "uniqueID": 752246,
                     "ioValues": [
                         {
@@ -78,10 +146,19 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 602,
+                    "y": 182,
+                    "uniqueID": 564094,
+                    "ioValues": [],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 626,
-                    "y": 182,
+                    "x": 845,
+                    "y": 46,
                     "uniqueID": 947382,
                     "ioValues": [
                         {
@@ -99,27 +176,10 @@
                     ]
                 },
                 {
-                    "atomType": "Scale",
-                    "name": "Scale",
-                    "x": 658,
-                    "y": 254,
-                    "uniqueID": 461429,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "multiple",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 927,
-                    "y": 163,
+                    "x": 1127,
+                    "y": 112,
                     "uniqueID": 339828,
                     "ioValues": [
                         {
@@ -127,15 +187,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 609754",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "2D shape 852219",
                             "ioValue": 10
                         },
                         {
                             "name": "2D shape 232138",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 609754",
                             "ioValue": 10
                         }
                     ],
